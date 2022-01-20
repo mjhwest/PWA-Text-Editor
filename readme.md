@@ -54,7 +54,9 @@ This application can be used two different ways; online or offline.
 
 If the user would like to use the application offline they can simply click on the download icon (seen in the url browswer) and the application will download to their desktop.
 
-Select this icon in your web browswer![download](assets/download.png) and the applicationw will automatically download to your desktop ![icon](assets/icon.png)
+Select this icon in your web browswer ![download](assets/download.png) 
+
+and the applicationw will automatically download to your desktop ![icon](assets/icon.png)
 
 
  Alternatively, the user can use the web application in the web browser. 
@@ -88,4 +90,4 @@ This appplication has the following features used in it
 If you would like to contribute to this project please contact me via email at mjhwest89@gmail.com
 
 ## License
-This project is released under the [MIT LICENSE](ADD LINK TO LICENSE)
+This project is released under the [MIT LICENSE](https://github.com/mjhwest/PWA-Text-Editor/blob/main/LICENSE)
