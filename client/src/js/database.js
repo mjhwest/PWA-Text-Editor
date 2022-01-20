@@ -39,11 +39,11 @@ export const getDb = async() => {
     // Use the .getAll() method to get all data in the database.
       const request = store.get(1);
     // const request = store.getAll();
-    // console.log("")
     // Get confirmation of the request.
     const result = await request;
     console.log('result.value', result);
     return result?.value;
+    // return result?.value;
 
 }
 
